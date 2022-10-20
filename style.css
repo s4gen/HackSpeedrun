@@ -1,0 +1,21 @@
+.inputHeader {
+    margin-bottom: 0;
+    margin-top: 5px
+}
+
+#submit {
+    margin-top: 7px;
+}
+
+#error {
+    color: #520400;
+}
+
+#admin {
+    font-size: 50px;
+    font-style: bold;
+}
+
+.secret {
+    color: white;
+}
