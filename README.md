@@ -1,0 +1,1 @@
+Extremely basic website I made to have fun with SQL injection. It's not a genuine SQL injection, but very basic ones should work. I more or less just made this out of boredom, but I think SQL injections are fun.
